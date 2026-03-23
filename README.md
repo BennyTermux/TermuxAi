@@ -83,7 +83,7 @@ pkg install libxml2 libxslt -y
 cd ~
 
 # Clone the repository (or copy files manually)
-git clone https://github.com/BennyTermux/TermuxAi.git
+git clone https://github.com/BennyTermux/Termux-Ai-BOT.git
 cd termux-ai-bot
 ```
 
